@@ -7,3 +7,7 @@ this is my first time doing anything on github besides downloading mods for goog
 
 just extract the tar to ~/.config and the rest is history.
 Contains startup sounds, just be warned, (it's the 3ds settings banner and it screams at you when you close hyprland)
+
+# REQUIRES:
+everything Hyprland reccomends (i use mako)
+optionally: mplayer (tui audio player that makes the startup noise)
